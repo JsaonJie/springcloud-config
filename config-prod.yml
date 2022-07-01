@@ -1,1 +1,2 @@
-第二个
+config:
+  info: main springcloud-cogif config-prod-yml version=2
