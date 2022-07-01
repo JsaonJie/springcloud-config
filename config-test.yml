@@ -1,1 +1,2 @@
-第三个
+config:
+  info: main springcloud-cogif config-test-yml version=1
