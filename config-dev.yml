@@ -1,1 +1,2 @@
-frist
+config:
+  info: main springcloud-cogif config-dev-yml
